@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @seeratfatima19
+- 👀 I’m interested in front end development ...
+- 🌱 I've just starting learning front end develeopment. I know the basics of HTML and CSS and I’m currently learning Javascript...
+- 📫 How to reach me ...
+
+<!---
+seeratfatima19/seeratfatima19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
