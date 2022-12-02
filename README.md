@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seeratfatima19
-- 👀 I’m interested in web design and developement ...
-- 🌱 I've just starting freelancine as a web desginer and wordpress developer.
+- 👀 I’m interested in development and web design ...
+
 
 <!---
 seeratfatima19/seeratfatima19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
