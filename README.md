@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @seeratfatima19
-- 👀 I’m interested in development and web design ...
+- 👋 Hi, I’m Seerat
+- 👀 My interests lie in
+  🌱 Machine Learning and Computer Vision
+  🌱 MERN
+  🌱 AWS Cloud Services
 
 
 <!---
