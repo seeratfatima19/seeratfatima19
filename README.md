@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seerat
 - 👀 My interests lie in </br>
   🌱 Machine Learning and Computer Vision 👁️‍🗨️ </br>
-  🌱 AWS Cloud Services ☁️ </br>
+  🌱 Cloud Services ☁️ </br>
   🌱 MERN 🌐 </br>
 
 
